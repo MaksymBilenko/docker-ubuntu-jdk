@@ -4,4 +4,4 @@ Docker container with Java 7 based on [ubuntu:latest](https://registry.hub.docke
 
 Usage:
 
-    docker run --rm sath89/ubuntu_jdk7 java -version
+    docker run --rm sath89/ubuntu_jdk java -version
