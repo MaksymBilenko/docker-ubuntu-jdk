@@ -1,4 +1,4 @@
-docker-ubuntu-jdk7
+docker-ubuntu-jdk
 ==================
 Docker container with Oracke JDK based on [ubuntu:latest](https://registry.hub.docker.com/_/ubuntu/)
 
