@@ -4,4 +4,4 @@ Docker container with Oracke JDK 7 based on [ubuntu:latest](https://registry.hub
 
 Usage:
 
-    docker run --rm sath89/ubuntu_jdk java -version
+    docker run --rm sath89/ubuntu_jdk:7 java -version
