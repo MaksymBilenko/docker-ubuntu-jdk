@@ -3,7 +3,7 @@ FROM     ubuntu:latest
 MAINTAINER Maksym Bilenko "sath891@gmail.com"
 
 # Set JDK Version
-ENV JAVA_VERSION 8
+ENV JAVA_VERSION 6
 
 # Set correct environment variables.
 ENV	HOME /root
